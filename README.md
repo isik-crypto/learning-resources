@@ -13,6 +13,6 @@
 - Tutorials(Solidity,Hardhat,etc)
   - [Eat the Blocks](https://www.youtube.com/c/EatTheBlocks): Ethereum related tutorials
   - [Hardhat(Development kit)](https://hardhat.org/)
-  - [Ethersjs] (https://docs.ethers.io/v4/)
+  - [Ethersjs](https://docs.ethers.io/v4/)
   - [Remix Online IDE](https://remix.ethereum.org/)
   - [MetaMask](https://metamask.io/)
