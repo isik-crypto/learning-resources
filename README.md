@@ -16,3 +16,4 @@
   - [Ethersjs](https://docs.ethers.io/v4/)
   - [Remix Online IDE](https://remix.ethereum.org/)
   - [MetaMask](https://metamask.io/)
+  - [Git(Beginner tutorial)](https://www.youtube.com/watch?v=8JJ101D3knE&t=645s&ab_channel=ProgrammingwithMosh)
